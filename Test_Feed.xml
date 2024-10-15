@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Auctions>
+  <Auction>
+    <Database_field>1</Database_field>
+    <auction_id>4429875</auction_id>
+    <type_name>1</type_name>
+    <current_bid>2210</current_bid>
+    <unique_views>72</unique_views>
+    <unit_contents>2007 Hummer H3 and household items</unit_contents>
+    <categories>21</categories>
+    <unit_width>10</unit_width>
+    <unit_length>20</unit_length>
+    <expire_date>2024-10-28 16:30:00</expire_date>
+    <facility>All American City</facility>
+    <zipcode>75115</zipcode>
+    <city>Desoto</city>
+    <state_name>Texas</state_name>
+    <Image_URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/8/8/7/1/3/4/7/giant.jpg</Image_URL>
+    <URL>https://www.storagetreasures.com/auctions/tx/desoto/4429875</URL>
+  </Auction>
+  <Auction>
+    <Database_field>2</Database_field>
+    <auction_id>4432712</auction_id>
+    <type_name>1</type_name>
+    <current_bid>510</current_bid>
+    <unique_views>39</unique_views>
+    <unit_contents>boxes, clothing/shoes, bags/totes, cabinets/shelves</unit_contents>
+    <categories>4,3,5</categories>
+    <unit_width>10</unit_width>
+    <unit_length>25</unit_length>
+    <expire_date>2024-11-13 17:00:00</expire_date>
+    <facility>CubeSmart #781</facility>
+    <zipcode>43228</zipcode>
+    <city>Columbus</city>
+    <state_name>Ohio</state_name>
+    <Image_URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/8/8/9/1/0/0/3/giant.jpg</Image_URL>
+    <URL>https://www.storagetreasures.com/auctions/oh/columbus/4432712</URL>
+  </Auction>
+  <Auction>
+    <Database_field>3</Database_field>
+    <auction_id>4433674</auction_id>
+    <type_name>1</type_name>
+    <current_bid>590</current_bid>
+    <unique_views>42</unique_views>
+    <unit_contents>chairs, office equipment, musical instruments, and tools.</unit_contents>
+    <categories>24</categories>
+    <unit_width>10</unit_width>
+    <unit_length>10</unit_length>
+    <expire_date>2024-11-14 16:30:00</expire_date>
+    <facility>CubeSmart #852</facility>
+    <zipcode>43035</zipcode>
+    <city>Lewis Center</city>
+    <state_name>Ohio</state_name>
+    <Image_URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/8/8/9/6/9/5/8/giant.jpg</Image_URL>
+    <URL>https://www.storagetreasures.com/auctions/oh/lewis%20center/4433674</URL>
+  </Auction>
+  <Auction>
+    <Database_field>4</Database_field>
+    <auction_id>4442240</auction_id>
+    <type_name>1</type_name>
+    <current_bid>1140</current_bid>
+    <unique_views>103</unique_views>
+    <unit_contents>Large safe, mini fridge, tons of patio chairs, stacking toolboxes and music equipment., Appliances, Bedding / Clothing, Boxes / Bags / Totes, Electronics / Computers, Furniture, Tools, Toys</unit_contents>
+    <categories>1,5,18,3,10,15,28,29</categories>
+    <unit_width>10</unit_width>
+    <unit_length>30</unit_length>
+    <expire_date>2024-10-28 18:10:00</expire_date>
+    <facility>Public Storage 22128 - Winter Garden / W Colonial Dr</facility>
+    <zipcode>34787</zipcode>
+    <city>Winter Garden</city>
+    <state_name>Florida</state_name>
+    <Image_URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/8/9/5/7/6/3/1/giant.jpg</Image_URL>
+    <URL>https://www.storagetreasures.com/auctions/fl/winter%20garden/4442240</URL>
+  </Auction>
+  <Auction>
+    <Database_field>5</Database_field>
+    <auction_id>4446546</auction_id>
+    <type_name>1</type_name>
+    <current_bid>11010</current_bid>
+    <unique_views>1478</unique_views>
+    <unit_contents>Brand, new items, collectibles, pop, VHS, Books / Files / Cabinets, Boxes / Bags / Totes, Toys</unit_contents>
+    <categories>2,3,29</categories>
+    <unit_width>10</unit_width>
+    <unit_length>30</unit_length>
+    <expire_date>2024-10-26 20:20:00</expire_date>
+    <facility>Public Storage 20452 - Fairfield / Western St</facility>
+    <zipcode>94533-2406</zipcode>
+    <city>Fairfield</city>
+    <state_name>California</state_name>
+    <Image_URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/8/9/8/8/5/4/4/giant.jpg</Image_URL>
+    <URL>https://www.storagetreasures.com/auctions/ca/fairfield/4446546</URL>
+  </Auction>
+  <Auction>
+    <Database_field>6</Database_field>
+    <auction_id>4447350</auction_id>
+    <type_name>1</type_name>
+    <current_bid>270</current_bid>
+    <unique_views>23</unique_views>
+    <unit_contents>Nike and Jordan boxes, ukulele, organizers, chair, dresser, flatscreen, Bedding / Clothing, Boxes / Bags / Totes, Furniture</unit_contents>
+    <categories>5,18,3,15</categories>
+    <unit_width>7</unit_width>
+    <unit_length>10</unit_length>
+    <expire_date>2024-10-26 20:05:00</expire_date>
+    <facility>Public Storage 21711 - Davis / Olive Dr  </facility>
+    <zipcode>95616-4706</zipcode>
+    <city>Davis</city>
+    <state_name>California</state_name>
+    <Image_URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/8/9/9/4/1/1/3/giant.jpg</Image_URL>
+    <URL>https://www.storagetreasures.com/auctions/ca/davis/4447350</URL>
+  </Auction>
+  <Auction>
+    <Database_field>7</Database_field>
+    <auction_id>4449337</auction_id>
+    <type_name>1</type_name>
+    <current_bid>510</current_bid>
+    <unique_views>32</unique_views>
+    <unit_contents>Boxes / Bags / Totes</unit_contents>
+    <categories>3</categories>
+    <unit_width>10</unit_width>
+    <unit_length>15</unit_length>
+    <expire_date>2024-10-29 18:45:00</expire_date>
+    <facility>Public Storage 08039 - San Francisco - Evans</facility>
+    <zipcode>94124-1023</zipcode>
+    <city>San Francisco</city>
+    <state_name>California</state_name>
+    <Image_URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/0/0/7/9/0/4/giant.jpg</Image_URL>
+    <URL>https://www.storagetreasures.com/auctions/ca/san%20francisco/4449337</URL>
+  </Auction>
+  <Auction>
+    <Database_field>8</Database_field>
+    <auction_id>4450427</auction_id>
+    <type_name>1</type_name>
+    <current_bid>510</current_bid>
+    <unique_views>44</unique_views>
+    <unit_contents>totes, shelving, tools, bags, boxes, golf clubs and bags, clothing, toys</unit_contents>
+    <categories>3,28,27,29,4</categories>
+    <unit_width>10</unit_width>
+    <unit_length>20</unit_length>
+    <expire_date>2024-10-28 18:00:00</expire_date>
+    <facility>Extra Space Storage #3905</facility>
+    <zipcode>98023</zipcode>
+    <city>Federal Way</city>
+    <state_name>Washington</state_name>
+    <Image_URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/0/1/5/2/8/0/giant.jpg</Image_URL>
+    <URL>https://www.storagetreasures.com/auctions/wa/federal%20way/4450427</URL>
+  </Auction>
+  <Auction>
+    <Database_field>9</Database_field>
+    <auction_id>4451609</auction_id>
+    <type_name>1</type_name>
+    <current_bid>310</current_bid>
+    <unique_views>11</unique_views>
+    <unit_contents>Bags, boxes, construction material, dresser, tools, chairs</unit_contents>
+    <categories>3,15,28</categories>
+    <unit_width>10</unit_width>
+    <unit_length>27</unit_length>
+    <expire_date>2024-11-12 23:15:00</expire_date>
+    <facility>CubeSmart #6777</facility>
+    <zipcode>28411</zipcode>
+    <city>Wilmington</city>
+    <state_name>North Carolina</state_name>
+    <Image_URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/0/2/3/2/8/0/giant.jpg</Image_URL>
+    <URL>https://www.storagetreasures.com/auctions/nc/wilmington/4451609</URL>
+  </Auction>
+  <Auction>
+    <Database_field>10</Database_field>
+    <auction_id>4452590</auction_id>
+    <type_name>1</type_name>
+    <current_bid>1300</current_bid>
+    <unique_views>64</unique_views>
+    <unit_contents>Bags/Totes, Cabinets/Shelves, Clothing/Shoes, Lamp, Musical Instruments</unit_contents>
+    <categories>5,4,17,3</categories>
+    <unit_width>10</unit_width>
+    <unit_length>20</unit_length>
+    <expire_date>2024-11-13 17:00:00</expire_date>
+    <facility>CubeSmart #781</facility>
+    <zipcode>43228</zipcode>
+    <city>Columbus</city>
+    <state_name>Ohio</state_name>
+    <Image_URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/0/3/0/3/3/5/giant.jpg</Image_URL>
+    <URL>https://www.storagetreasures.com/auctions/oh/columbus/4452590</URL>
+  </Auction>
+  <Auction>
+    <Database_field>11</Database_field>
+    <auction_id>4462520</auction_id>
+    <type_name>1</type_name>
+    <current_bid>410</current_bid>
+    <unique_views>25</unique_views>
+    <unit_contents>Unit appears to contain Shoes, Furniture, toys, kids clothes, bedding, lamp, skate board, shelving, totes, folding table, hats, wall art, boxes, mop, electric griddle, small basket ball hoop.</unit_contents>
+    <categories>1,4,8,17,29,5,18,30,15,3</categories>
+    <unit_width>5</unit_width>
+    <unit_length>10</unit_length>
+    <expire_date>2024-10-29 20:10:00</expire_date>
+    <facility>West Coast Self-Storage - West Seattle</facility>
+    <zipcode>98126</zipcode>
+    <city>Seattle</city>
+    <state_name>Washington</state_name>
+    <Image_URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/0/9/6/7/4/2/giant.jpg</Image_URL>
+    <URL>https://www.storagetreasures.com/auctions/wa/seattle/4462520</URL>
+  </Auction>
+  <Auction>
+    <Database_field>12</Database_field>
+    <auction_id>4462550</auction_id>
+    <type_name>1</type_name>
+    <current_bid>270</current_bid>
+    <unique_views>28</unique_views>
+    <unit_contents>fishing net; tool box; bike; scooter; luggage; tool bags; totes</unit_contents>
+    <categories>27,28,3</categories>
+    <unit_width>10</unit_width>
+    <unit_length>15</unit_length>
+    <expire_date>2024-10-29 17:45:00</expire_date>
+    <facility>Summit Heated Self Storage</facility>
+    <zipcode>98446</zipcode>
+    <city>Tacoma</city>
+    <state_name>Washington</state_name>
+    <Image_URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/0/9/6/9/4/1/giant.jpg</Image_URL>
+    <URL>https://www.storagetreasures.com/auctions/wa/tacoma/4462550</URL>
+  </Auction>
+</Auctions>
