@@ -2,26 +2,6 @@
 <auctions>
   <auction>
     <index>0</index>
-    <Database_field>1</Database_field>
-    <auction_id>4546600</auction_id>
-    <type_name>1</type_name>
-    <current_bid>1010</current_bid>
-    <unique_views>106</unique_views>
-    <unit_contents>Good condition</unit_contents>
-    <categories>27,10,3,1,4,21</categories>
-    <unit_width>10</unit_width>
-    <unit_length>10</unit_length>
-    <expire_date>2024-12-27 21:01:00</expire_date>
-    <facility>Clearview Self Storage</facility>
-    <address>1000 Carlisle St Suite 2155</address>
-    <zipcode>17331</zipcode>
-    <city>Hanover</city>
-    <state_name>Pennsylvania</state_name>
-    <Image_URL/>
-    <URL/>
-  </auction>
-  <auction>
-    <index>1</index>
     <Database_field>2</Database_field>
     <auction_id>4556848</auction_id>
     <type_name>1</type_name>
@@ -41,7 +21,7 @@
     <URL>https://www.storagetreasures.com/auctions/sc/florence/4556848</URL>
   </auction>
   <auction>
-    <index>2</index>
+    <index>1</index>
     <Database_field>3</Database_field>
     <auction_id>4556854</auction_id>
     <type_name>1</type_name>
@@ -61,7 +41,7 @@
     <URL>https://www.storagetreasures.com/auctions/sc/florence/4556854</URL>
   </auction>
   <auction>
-    <index>3</index>
+    <index>2</index>
     <Database_field>4</Database_field>
     <auction_id>4567715</auction_id>
     <type_name>1</type_name>
@@ -81,7 +61,7 @@
     <URL>https://www.storagetreasures.com/auctions/ok/tulsa/4567715</URL>
   </auction>
   <auction>
-    <index>4</index>
+    <index>3</index>
     <Database_field>5</Database_field>
     <auction_id>4572369</auction_id>
     <type_name>1</type_name>
@@ -101,7 +81,7 @@
     <URL>https://www.storagetreasures.com/auctions/nj/south%20plainfield/4572369</URL>
   </auction>
   <auction>
-    <index>5</index>
+    <index>4</index>
     <Database_field>6</Database_field>
     <auction_id>4572642</auction_id>
     <type_name>1</type_name>
@@ -121,7 +101,7 @@
     <URL>https://www.storagetreasures.com/auctions/fl/wesley%20chapel/4572642</URL>
   </auction>
   <auction>
-    <index>6</index>
+    <index>5</index>
     <Database_field>7</Database_field>
     <auction_id>4576466</auction_id>
     <type_name>1</type_name>
@@ -141,7 +121,7 @@
     <URL>https://www.storagetreasures.com/auctions/tx/dallas/4576466</URL>
   </auction>
   <auction>
-    <index>7</index>
+    <index>6</index>
     <Database_field>8</Database_field>
     <auction_id>4584839</auction_id>
     <type_name>1</type_name>
@@ -161,7 +141,7 @@
     <URL>https://www.storagetreasures.com/auctions/az/prescott/4584839</URL>
   </auction>
   <auction>
-    <index>8</index>
+    <index>7</index>
     <Database_field>9</Database_field>
     <auction_id>4584869</auction_id>
     <type_name>1</type_name>
@@ -181,7 +161,7 @@
     <URL>https://www.storagetreasures.com/auctions/tn/clarksville/4584869</URL>
   </auction>
   <auction>
-    <index>9</index>
+    <index>8</index>
     <Database_field>10</Database_field>
     <auction_id>4589202</auction_id>
     <type_name>1</type_name>
@@ -201,7 +181,7 @@
     <URL>https://www.storagetreasures.com/auctions/fl/jacksonville/4589202</URL>
   </auction>
   <auction>
-    <index>10</index>
+    <index>9</index>
     <Database_field>11</Database_field>
     <auction_id>4591025</auction_id>
     <type_name>1</type_name>
@@ -221,7 +201,7 @@
     <URL>https://www.storagetreasures.com/auctions/az/litchfield%20park/4591025</URL>
   </auction>
   <auction>
-    <index>11</index>
+    <index>10</index>
     <Database_field>12</Database_field>
     <auction_id>4595625</auction_id>
     <type_name>1</type_name>
@@ -241,7 +221,7 @@
     <URL>https://www.storagetreasures.com/auctions/va/chesapeake/4595625</URL>
   </auction>
   <auction>
-    <index>12</index>
+    <index>11</index>
     <Database_field>13</Database_field>
     <auction_id>4599330</auction_id>
     <type_name>1</type_name>
