@@ -1,0 +1,230 @@
+<Root>
+  <Row>
+    <Database field>1</Database field>
+    <auction_id>4556848</auction_id>
+    <type_name>1</type_name>
+    <current_bid>260</current_bid>
+    <unique_views>11</unique_views>
+    <unit_contents>Desk, china cabinets sofa. Ladder, Appliances, Bedding / Clothing, Books / Files / Cabinets, Boxes / Bags / Totes, Furniture, Tools</unit_contents>
+    <categories>1,5,18,2,3,15,28</categories>
+    <unit_width>10</unit_width>
+    <unit_length>15</unit_length>
+    <expire_date>2024-12-27 17:35:00</expire_date>
+    <facility>Public Storage 25916 - Florence / 2nd Loop & S Cashua Dr</facility>
+    <address>2201 2nd Loop Rd</address>
+    <zipcode>29501-6128</zipcode>
+    <city>Florence</city>
+    <state_name>South Carolina</state_name>
+    <Image URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/7/6/0/6/7/1/giant.jpg</Image URL>
+    <URL>https://www.storagetreasures.com/auctions/sc/florence/4556848</URL>
+  </Row>
+  <Row>
+    <Database field>2</Database field>
+    <auction_id>4556854</auction_id>
+    <type_name>1</type_name>
+    <current_bid>360</current_bid>
+    <unique_views>18</unique_views>
+    <unit_contents>Shop vac, mirror, table saw, washer, dryer; stove, couch, Appliances, Bedding / Clothing, Boxes / Bags / Totes, Furniture, Tools</unit_contents>
+    <categories>1,5,18,3,15,28</categories>
+    <unit_width>10</unit_width>
+    <unit_length>20</unit_length>
+    <expire_date>2024-12-27 17:50:00</expire_date>
+    <facility>Public Storage 25916 - Florence / 2nd Loop & S Cashua Dr</facility>
+    <address>2201 2nd Loop Rd</address>
+    <zipcode>29501-6128</zipcode>
+    <city>Florence</city>
+    <state_name>South Carolina</state_name>
+    <Image URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/7/6/0/7/0/7/giant.jpg</Image URL>
+    <URL>https://www.storagetreasures.com/auctions/sc/florence/4556854</URL>
+  </Row>
+  <Row>
+    <Database field>3</Database field>
+    <auction_id>4567715</auction_id>
+    <type_name>1</type_name>
+    <current_bid>610</current_bid>
+    <unique_views>102</unique_views>
+    <unit_contents>Appliances, boxes, clothing and shoes, furniture, sports and outdoors.</unit_contents>
+    <categories>1,3,5,15,27</categories>
+    <unit_width>10</unit_width>
+    <unit_length>20</unit_length>
+    <expire_date>2024-12-17 19:00:00</expire_date>
+    <facility>Extra Space Storage #7984</facility>
+    <address>8175 S Mingo Rd</address>
+    <zipcode>74133</zipcode>
+    <city>Tulsa</city>
+    <state_name>Oklahoma</state_name>
+    <Image URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/8/3/5/6/4/2/giant.jpg</Image URL>
+    <URL>https://www.storagetreasures.com/auctions/ok/tulsa/4567715</URL>
+  </Row>
+  <Row>
+    <Database field>4</Database field>
+    <auction_id>4572369</auction_id>
+    <type_name>1</type_name>
+    <current_bid>300</current_bid>
+    <unique_views>29</unique_views>
+    <unit_contents>Nike sneakers , New Era hats, couch, chair, artwork, Boxes / Bags / Totes</unit_contents>
+    <categories>3</categories>
+    <unit_width>10</unit_width>
+    <unit_length>20</unit_length>
+    <expire_date>2024-12-17 23:15:00</expire_date>
+    <facility>Public Storage 29282 - S Plainfield / McKinley &amp; Durham</facility>
+    <address>120 Mckinley St</address>
+    <zipcode>7080</zipcode>
+    <city>South Plainfield</city>
+    <state_name>New Jersey</state_name>
+    <Image URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/8/6/8/0/9/9/giant.jpg</Image URL>
+    <URL>https://www.storagetreasures.com/auctions/nj/south%20plainfield/4572369</URL>
+  </Row>
+  <Row>
+    <Database field>5</Database field>
+    <auction_id>4572642</auction_id>
+    <type_name>1</type_name>
+    <current_bid>460</current_bid>
+    <unique_views>37</unique_views>
+    <unit_contents>4 Wheeler, Dirt Bike, Toys, couch, TV, Kitchen Chairs, Ottoman, Glass Table, Bedframe.</unit_contents>
+    <categories>27,10,29,21</categories>
+    <unit_width>10</unit_width>
+    <unit_length>15</unit_length>
+    <expire_date>2024-12-18 15:00:00</expire_date>
+    <facility>Extra Space Storage #3684</facility>
+    <address>28925 State Road 54</address>
+    <zipcode>33543</zipcode>
+    <city>Wesley Chapel</city>
+    <state_name>Florida</state_name>
+    <Image URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/8/7/0/0/1/3/giant.jpg</Image URL>
+    <URL>https://www.storagetreasures.com/auctions/fl/wesley%20chapel/4572642</URL>
+  </Row>
+  <Row>
+    <Database field>6</Database field>
+    <auction_id>4576466</auction_id>
+    <type_name>1</type_name>
+    <current_bid>1510</current_bid>
+    <unique_views>112</unique_views>
+    <unit_contents>1966 CHEV PK VIN C1546S104623</unit_contents>
+    <categories>21</categories>
+    <unit_width>8</unit_width>
+    <unit_length>15</unit_length>
+    <expire_date>2024-12-19 04:05:00</expire_date>
+    <facility>Extra Space Storage #0561</facility>
+    <address>10740 Garland Rd</address>
+    <zipcode>75218</zipcode>
+    <city>Dallas</city>
+    <state_name>Texas</state_name>
+    <Image URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/8/9/6/4/6/2/giant.jpg</Image URL>
+    <URL>https://www.storagetreasures.com/auctions/tx/dallas/4576466</URL>
+  </Row>
+  <Row>
+    <Database field>7</Database field>
+    <auction_id>4584839</auction_id>
+    <type_name>1</type_name>
+    <current_bid>670</current_bid>
+    <unique_views>43</unique_views>
+    <unit_contents>2007 Lincoln Navigator, &amp; 1971 Cadillac Eldorado. Condition is unknown and no keys or title will be provided.</unit_contents>
+    <categories>21</categories>
+    <unit_width>12</unit_width>
+    <unit_length>35</unit_length>
+    <expire_date>2024-12-18 20:00:00</expire_date>
+    <facility>Granite Dells Storage, LLC</facility>
+    <address>5430 Side Rd</address>
+    <zipcode>86301</zipcode>
+    <city>Prescott</city>
+    <state_name>Arizona</state_name>
+    <Image URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/9/5/6/4/9/7/giant.jpg</Image URL>
+    <URL>https://www.storagetreasures.com/auctions/az/prescott/4584839</URL>
+  </Row>
+  <Row>
+    <Database field>8</Database field>
+    <auction_id>4584869</auction_id>
+    <type_name>1</type_name>
+    <current_bid>350</current_bid>
+    <unique_views>22</unique_views>
+    <unit_contents>Bags, totes, boxes, shelves, purifier, Kirby vacuum, Army gear, Mattresses, Stroller, toys, Personal effects</unit_contents>
+    <categories>29,18,26,4,3</categories>
+    <unit_width>10</unit_width>
+    <unit_length>10</unit_length>
+    <expire_date>2024-12-18 18:30:00</expire_date>
+    <facility>CubeSmart #5946</facility>
+    <address>528 Dover Rd</address>
+    <zipcode>37042</zipcode>
+    <city>Clarksville</city>
+    <state_name>Tennessee</state_name>
+    <Image URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/9/5/6/7/1/8/giant.jpg</Image URL>
+    <URL>https://www.storagetreasures.com/auctions/tn/clarksville/4584869</URL>
+  </Row>
+  <Row>
+    <Database field>9</Database field>
+    <auction_id>4589202</auction_id>
+    <type_name>1</type_name>
+    <current_bid>860</current_bid>
+    <unique_views>41</unique_views>
+    <unit_contents>Bags, Tool Box.</unit_contents>
+    <categories>28,14</categories>
+    <unit_width>10</unit_width>
+    <unit_length>20</unit_length>
+    <expire_date>2024-12-27 15:00:00</expire_date>
+    <facility>Compass Self Storage</facility>
+    <address>2825 St. Johns Bluff Rd</address>
+    <zipcode>32246</zipcode>
+    <city>Jacksonville</city>
+    <state_name>Florida</state_name>
+    <Image URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/9/8/4/4/9/9/giant.jpg</Image URL>
+    <URL>https://www.storagetreasures.com/auctions/fl/jacksonville/4589202</URL>
+  </Row>
+  <Row>
+    <Database field>10</Database field>
+    <auction_id>4591025</auction_id>
+    <type_name>1</type_name>
+    <current_bid>410</current_bid>
+    <unique_views>33</unique_views>
+    <unit_contents>shoes/clothes; back packs; boxes;</unit_contents>
+    <categories>3,5,26</categories>
+    <unit_width>5</unit_width>
+    <unit_length>5</unit_length>
+    <expire_date>2024-12-19 19:35:00</expire_date>
+    <facility>CubeSmart #4361</facility>
+    <address>4835 N. Dysart Road</address>
+    <zipcode>85340</zipcode>
+    <city>Litchfield Park</city>
+    <state_name>Arizona</state_name>
+    <Image URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/2/9/9/9/7/6/9/4/giant.jpg</Image URL>
+    <URL>https://www.storagetreasures.com/auctions/az/litchfield%20park/4591025</URL>
+  </Row>
+  <Row>
+    <Database field>11</Database field>
+    <auction_id>4595625</auction_id>
+    <type_name>1</type_name>
+    <current_bid>430</current_bid>
+    <unique_views>11</unique_views>
+    <unit_contents>totes, shoeboxes, bags, mattress, box spring, book bag, dry erase board, computer monitor, purses, hand truck, holiday decorations</unit_contents>
+    <categories>26,18,5,7</categories>
+    <unit_width>5</unit_width>
+    <unit_length>12</unit_length>
+    <expire_date>2024-12-27 02:45:00</expire_date>
+    <facility>Extra Space Storage #1579</facility>
+    <address>200 Poplar Hill Rd</address>
+    <zipcode>23321</zipcode>
+    <city>Chesapeake</city>
+    <state_name>Virginia</state_name>
+    <Image URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/3/0/0/3/0/2/7/6/giant.jpg</Image URL>
+    <URL>https://www.storagetreasures.com/auctions/va/chesapeake/4595625</URL>
+  </Row>
+  <Row>
+    <Database field>12</Database field>
+    <auction_id>4599330</auction_id>
+    <type_name>1</type_name>
+    <current_bid>310</current_bid>
+    <unique_views>26</unique_views>
+    <unit_contents>Tool boxes ammo boxes tv tools air compressor totes dresser jumper cables shoes boots bottle jacks shovels painting supplies cleaning supplies tarps</unit_contents>
+    <categories>4,26,9,5,10,27,28,3</categories>
+    <unit_width>10</unit_width>
+    <unit_length>10</unit_length>
+    <expire_date>2024-12-26 16:00:00</expire_date>
+    <facility>Extra Space Storage #7242</facility>
+    <address>1885 W 1st St</address>
+    <zipcode>45504</zipcode>
+    <city>Springfield</city>
+    <state_name>Ohio</state_name>
+    <Image URL>https://media.st-prd-1.aws.storagetreasures.com/data/auctions/images/3/0/0/5/5/7/3/1/giant.jpg</Image URL>
+    <URL>https://www.storagetreasures.com/auctions/oh/springfield/4599330</URL>
+  </Row>
+</Root>
